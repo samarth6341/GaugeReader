@@ -14,12 +14,10 @@ Installation
 To install GaugeReader, you can clone the repository using the following command:
 
 bash
-Copy code
 git clone https://github.com/<username>/GaugeReader.git
 Once you have cloned the repository, you need to make sure that you have the required packages installed. You can install them using the following command:
 
 bash
-Copy code
 pip install -r requirements.txt
 Usage
 To use GaugeReader, you need to follow these steps:
@@ -33,9 +31,7 @@ Make sure that the keras_model.h5 file and labels are in the open folder or chan
 Set up an LED on digital pin 11 of the Arduino board for the positive connection and ground for the negative connection.
 
 Run the gauge_reader.py file using the following command:
-
 bash
-Copy code
 python gauge_reader.py
 This will open the camera and start capturing images of the gauge.
 
