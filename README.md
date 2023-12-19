@@ -13,12 +13,12 @@ An LED connected to Digital Pin 11 (positive) and ground (negative)
 Installation
 To install GaugeReader, you can clone the repository using the following command:
 
-bash
-git clone https://github.com/<username>/GaugeReader.git
+
+git clone https://github.com/samarth6341/GaugeReader.git
 Once you have cloned the repository, you need to make sure that you have the required packages installed. You can install them using the following command:
 
-bash
-pip install -r requirements.txt
+pip install -r requirements.txt4
+
 Usage
 To use GaugeReader, you need to follow these steps:
 
