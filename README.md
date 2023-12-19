@@ -30,9 +30,9 @@ This will open the camera and start capturing images of the gauge.
 
 Place the gauge in front of the camera and wait for the LED to light up with the corresponding reading level.
 
-# Contributing
+## Contributing
 If you want to contribute to GaugeReader, feel free to submit a pull request. We welcome any contributions that can help improve the accuracy and efficiency of the model.
 
-# License
+## License
 GaugeReader is licensed under the MIT license. You are free to use, modify, and distribute the code as long as you include the original license in your distribution.
 
