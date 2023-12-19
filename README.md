@@ -1,4 +1,4 @@
-### GaugeReader
+# GaugeReader
 GaugeReader is an image classification model that provides three levels of output - High, Medium, and Low - based on the readings from a specific gauge. The model is trained using Keras and can be run on a PC connected to an Arduino board.
 
 ## Requirements
